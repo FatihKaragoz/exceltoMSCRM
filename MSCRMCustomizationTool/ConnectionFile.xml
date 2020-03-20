@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ConnectionInformation>
+  <System Value="sadsa" Id="25fc3cff-70bf-42c6-bb01-33d54b8bca29">
+    <Connection Url="https://taskinnthebox.crm4.dynamics.com" UserName="fatih@taskinnthebox.onmicrosoft.com" Password="wzEYegwrLQWocx+ZSCqy1w==" />
+  </System>
+  <System Value="hasan" Id="b8a7529b-19b9-40d0-815a-814a2a43a2f5">
+    <Connection Url="https://taskinnthebox.crm4.dynamics.com" UserName="fatih@taskinnthebox.onmicrosoft.com" Password="wzEYegwrLQWocx+ZSCqy1w==" />
+  </System>
+  <System Value="asdsadsa" Id="329b90d8-9fad-4835-a4c2-473a95138833">
+    <Connection Url="https://taskinnthebox.crm4.dynamics.com" UserName="fatih@taskinnthebox.onmicrosoft.com" Password="wzEYegwrLQWocx+ZSCqy1w==" />
+  </System>
+  <System Value="hasannnn" Id="49c56d0e-72d1-4b99-ac0c-e396b38ed1c8">
+    <Connection Url="https://taskinnthebox.crm4.dynamics.com" UserName="fatih@taskinnthebox.onmicrosoft.com" Password="wzEYegwrLQWocx+ZSCqy1w==" />
+  </System>
+</ConnectionInformation>

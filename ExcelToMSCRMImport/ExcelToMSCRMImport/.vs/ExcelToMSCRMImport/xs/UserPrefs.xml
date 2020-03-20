@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{5068B328-1A6C-4159-90EF-5F8D61534F0C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExcelToMSCRMImport/OrganizationDefine.cs">
+    <Files>
+      <File FileName="ExcelToMSCRMImport/Library/MapHelper.cs" Line="29" Column="44" />
+      <File FileName="ExcelToMSCRMImport/Library/MSCRMConnection.cs" Line="27" Column="41" />
+      <File FileName="ExcelToMSCRMImport/Library/ConnectionXmlHelper.cs" Line="23" Column="1" />
+      <File FileName="ExcelToMSCRMImport/Library/ILogger.cs" Line="1" Column="1" />
+      <File FileName="ExcelToMSCRMImport/Library/StaticValue.cs" Line="23" Column="58" />
+      <File FileName="ExcelToMSCRMImport/Library/Object.cs" Line="8" Column="37" />
+      <File FileName="ExcelToMSCRMImport/MainForm.Designer.cs" Line="20" Column="21" />
+      <File FileName="ExcelToMSCRMImport/MainForm.cs" Line="25" Column="30" />
+      <File FileName="ExcelToMSCRMImport/OrganizationDefine.Designer.cs" Line="17" Column="1" />
+      <File FileName="ExcelToMSCRMImport/OrganizationDefine.cs" Line="46" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExcelToMSCRMImport" expanded="True">
+            <Node name="ExcelToMSCRMImport" expanded="True">
+              <Node name="Assembiles" expanded="True" />
+              <Node name="Library" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="ImportExcelForm.cs" expanded="True" />
+              <Node name="MainForm.cs" expanded="True" />
+              <Node name="OrganizationDefine.cs" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>entity</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.ExcelToMSCRMImport PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/fatih/Desktop/ExcelToMSCRMImport/ExcelToMSCRMImport/Library/MapHelper.cs" relfile="ExcelToMSCRMImport/Library/MapHelper.cs" line="45" column="1" />
+      <Breakpoint file="/home/fatih/Desktop/ExcelToMSCRMImport/ExcelToMSCRMImport/Library/MapHelper.cs" relfile="ExcelToMSCRMImport/Library/MapHelper.cs" line="44" column="1" />
+      <Breakpoint file="/home/fatih/Desktop/ExcelToMSCRMImport/ExcelToMSCRMImport/Library/MapHelper.cs" relfile="ExcelToMSCRMImport/Library/MapHelper.cs" line="36" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

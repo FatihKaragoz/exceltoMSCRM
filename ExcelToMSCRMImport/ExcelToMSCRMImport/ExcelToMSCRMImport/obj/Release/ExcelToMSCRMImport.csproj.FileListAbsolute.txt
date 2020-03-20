@@ -1,0 +1,15 @@
+/home/fatih/Desktop/ExcelToMSCRMImport/ExcelToMSCRMImport/bin/Release/ExcelToMSCRMImport.exe.config
+/home/fatih/Desktop/ExcelToMSCRMImport/ExcelToMSCRMImport/bin/Release/ExcelToMSCRMImport.exe
+/home/fatih/Desktop/ExcelToMSCRMImport/ExcelToMSCRMImport/bin/Release/ExcelToMSCRMImport.pdb
+/home/fatih/Desktop/ExcelToMSCRMImport/ExcelToMSCRMImport/bin/Release/Microsoft.Crm.Sdk.Proxy.dll
+/home/fatih/Desktop/ExcelToMSCRMImport/ExcelToMSCRMImport/bin/Release/Microsoft.IdentityModel.dll
+/home/fatih/Desktop/ExcelToMSCRMImport/ExcelToMSCRMImport/bin/Release/Microsoft.Xrm.Sdk.dll
+/home/fatih/Desktop/ExcelToMSCRMImport/ExcelToMSCRMImport/obj/Release/ExcelToMSCRMImport.exe.config
+/home/fatih/Desktop/ExcelToMSCRMImport/ExcelToMSCRMImport/obj/Release/ExcelToMSCRMImport.MainForm.resources
+/home/fatih/Desktop/ExcelToMSCRMImport/ExcelToMSCRMImport/obj/Release/ExcelToMSCRMImport.OrganizationDefine.resources
+/home/fatih/Desktop/ExcelToMSCRMImport/ExcelToMSCRMImport/obj/Release/ExcelToMSCRMImport.Properties.Resources.resources
+/home/fatih/Desktop/ExcelToMSCRMImport/ExcelToMSCRMImport/obj/Release/ExcelToMSCRMImport.csproj.GenerateResource.cache
+/home/fatih/Desktop/ExcelToMSCRMImport/ExcelToMSCRMImport/obj/Release/ExcelToMSCRMImport.csproj.CoreCompileInputs.cache
+/home/fatih/Desktop/ExcelToMSCRMImport/ExcelToMSCRMImport/obj/Release/ExcelToMSCRMImport.csproj.CopyComplete
+/home/fatih/Desktop/ExcelToMSCRMImport/ExcelToMSCRMImport/obj/Release/ExcelToMSCRMImport.exe
+/home/fatih/Desktop/ExcelToMSCRMImport/ExcelToMSCRMImport/obj/Release/ExcelToMSCRMImport.pdb
